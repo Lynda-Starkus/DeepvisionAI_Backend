@@ -22,15 +22,15 @@ The backend functions with Tensorflow, Pytorch and yolov5
 
 Examples of the output results
 
->2- preprocessing mask 
+>1- preprocessing mask 
 
 ![normal_mask](/out90.jpg)
 
->3- Abnormal behaviour detection
+>2- Abnormal behaviour detection
 
 ![abnormal_detected](/frame90.jpg)
 
->4- Full tracking
+>3- Full tracking
 <img src="/tracking.png" width="240" height="160">
 
 
