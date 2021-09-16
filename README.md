@@ -39,9 +39,12 @@ Examples of the output results
 - bg .py : generates foreground masks as a preprocessing step for optical_flow .py
 
 
-## Installation
+## Installation & Usage
 
 It's recommanded to use [Anaconda].
+
+Download the UCSD dataset : UCSD_Anomaly_Dataset.v1p2
+Extract it to main directroy ./UCSD_Anomaly_Dataset.v1p2
 
 Install the packages
 
