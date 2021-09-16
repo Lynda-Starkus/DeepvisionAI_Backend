@@ -65,7 +65,7 @@ python run.py -test [number of tests to be conducted default = 36] -tracking [ru
 
 
 
-## Plugins
+## Performance results
 
 Below are the performance results compared to other state-of-the-art results.
 
@@ -77,6 +77,9 @@ Below are the performance results compared to other state-of-the-art results.
 | H-MDT CRF | 0.827 |
 | STRT unsupervised  | 0.5945 |
 | STRT supervised | 0.7118 |
+
+> Roc curve for 36 tests
+<img src="/roc_curve.png" width="600" height="200">
 
 ## References for statistics 
 
