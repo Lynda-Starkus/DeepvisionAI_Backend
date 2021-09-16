@@ -20,13 +20,18 @@ The backend functions with Tensorflow, Pytorch and yolov5
 
 
 
-
 Examples of the output results
 
 >2- preprocessing mask 
-![normal_sample](/frame.jpg)
-3- Abnormal behaviour detection
-4- Full tracking
+
+![normal_mask](/out90.jpg)
+
+>3- Abnormal behaviour detection
+
+![abnormal_detected](/frame90.jpg)
+
+>4- Full tracking
+<img src="/tracking.png" width="240" height="160">
 
 
 ## Files organization
@@ -45,6 +50,7 @@ Examples of the output results
 It's recommanded to use [Anaconda].
 
 Download the UCSD dataset : UCSD_Anomaly_Dataset.v1p2
+
 Extract it to main directroy ./UCSD_Anomaly_Dataset.v1p2
 
 Install the packages
