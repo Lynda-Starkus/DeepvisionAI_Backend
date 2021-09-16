@@ -72,7 +72,8 @@ Below are the performance results compared to other state-of-the-art results.
 
 ## ©️ License
 
-CERIST : Centre de Recherche sur l'Information Scientifique et Technique.
+CERIST : Centre de Recherche sur l'Information Scientifique et Technique
+
 ESI : Ecole Nationale Supérieure d'Informatique d'Alger (Ex. INI)
 
 Team :
