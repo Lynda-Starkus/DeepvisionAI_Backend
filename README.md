@@ -58,6 +58,10 @@ Install the packages
 ```
 pip install requirements.txt
 ```
+Run the pilot script :
+```
+python run.py -test [number of tests to be conducted default = 36] -tracking [runs tracking too default = true]
+```
 
 
 
