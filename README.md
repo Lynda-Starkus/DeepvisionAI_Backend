@@ -22,8 +22,9 @@ The backend functions with Tensorflow, Pytorch and yolov5
 
 
 Examples of the output results
-> 1- Normal sample
-2- preprocessing mask 
+
+>2- preprocessing mask 
+![normal_sample]
 3- Abnormal behaviour detection
 4- Full tracking
 
