@@ -14,7 +14,7 @@ The backend functions with Tensorflow, Pytorch and yolov5
 - Tracking all pedestrians with high accuracy
 - Generating foreground masks
 - Uses optical flow features 
-- Uses convolutional saptial auto-encoder 
+- Uses convolutional spatial auto-encoder 
 
 
 
