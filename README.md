@@ -94,7 +94,7 @@ CERIST : Centre de Recherche sur l'Information Scientifique et Technique
 ESI : Ecole Nationale Supérieure d'Informatique d'Alger (Ex. INI)
 
 Team :
-- Linda Belkessa https://www.linkedin.com/in/linda-belkessa/
+- Linda Belkessa (Chef d'équipe) https://www.linkedin.com/in/linda-belkessa/
 - Sarah Abchiche https://www.linkedin.com/in/sarah-abchiche/
 - Salima Mamma https://www.linkedin.com/in/salima-mamma-239002179/
 - Sofia Ouanes https://www.linkedin.com/in/sofia-ouanes-18a841182/
